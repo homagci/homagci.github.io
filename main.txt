@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <p><h1>NewYorkTimeNEWS</h1>
+</head>
+ <body>
+  <h3>This is site on NewYorkTime's, all information here is fake.</h3>
+   <p><img src="FakeNews_2.jpg"></p>
+    <a href="auxiliary.html">Second page</a>
+ </body>
+</hmtl>

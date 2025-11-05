@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <p><h1>Warning FAKE news!</h1>
+</head>
+ <body>
+   <p><img src="FakeNews.jpg"></p>
+    <a href="main.html">First page</a>
+ </body>
+</hmtl>
